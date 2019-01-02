@@ -39,7 +39,7 @@ crystal spec
 
 ## Contributing
 
-1. Fork it ( https://github.com/your-github-user/crystal-project/fork )
+1. Fork it ( https://github.com/binodmainali1/crystal-project/fork )
 2. Create your feature branch ( `git checkout -b my-new-feature` )
 3. Commit your changes ( `git commit -am 'Add some feature'` )
 4. Push to the branch ( `git push origin my-new-feature` )
@@ -47,4 +47,4 @@ crystal spec
 
 ## Contributors
 
-- [your-github-user](https://github.com/your-github-user) Binod Mainali - creator, maintainer
+- [binodmainali1](https://github.com/binodmainali1) Binod Mainali - creator, maintainer
